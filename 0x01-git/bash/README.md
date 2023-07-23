@@ -1,1 +1,2 @@
-Creating alx and school files in bash dir
+#!/bin/bash
+echo "School"

@@ -1,1 +1,1 @@
-Creating index.js and main.js in js dir
+Creating empty file in js dir
